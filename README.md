@@ -1,5 +1,3 @@
-# AtrijGhosh
-
 # 👋 Hi, I'm Atrij Ghosh  
 
 🎓 B.Tech IT (2nd Year) Student at **Maulana Abul Kalam Azad University of Technology (MAKAUT)**  
@@ -10,7 +8,9 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **DSA in Java**  
-- 🌐 Working on becoming a **Full Stack MERN Developer**  
+- 🌐 Working on **Full Stack MERN Development**  
+- 🖥️ Practicing **HTML, CSS, JavaScript** for frontend development  
+- 🏆 Solved **200+ coding questions** on online platforms (LeetCode, Codeforces, GFG, etc.)  
 - 🔭 Built **C & C++ basic terminal-based projects**  
 - 🎯 Goal: Improve problem-solving & build real-world applications  
 
@@ -20,6 +20,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,8 +45,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atrij-ghosh-86690234a)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoshatrij@gamil.com)  
 
 ---
 ✨ *“Code, Learn, Build, Repeat — that’s my journey!”*  
